@@ -14,7 +14,7 @@
 	<img class = "img1"src = "4.png" style = "position: relative; top: 0px; left:0px; height: 10%; width: 100%;">
 	<img class = "img1"src = "5.png" style = "position: relative; top: 0px; left:0px; height: 10%; width: 100%;">
 	<img class = "img1"src = "6.png" style = "position: relative; top: 0px; left:0px; height: 10%; width: 100%;">
-	<img class = "img1"src = "7.png" style = "position: relative; top:0px; left:0px; height: 10%; width: 100%;">
+	
 	
 	
 	</div>
