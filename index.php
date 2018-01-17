@@ -12,8 +12,8 @@
 	<img class = "img1"src = "2.png" style = "position: relative; top:0px; left:100px; height: 12%; width: 45%;">
 	<img class = "img1"src = "3.png" style = "position: relative; top: 0px; left:100px; height: 12%; width: 45%;">
 	<img class = "img1"src = "4.png" style = "position: relative; top: 0px; left:100px; height: 12%; width: 45%;">
-	
-	
+	<img class = "img1"src = "5.png" style = "position: relative; top: 0px; left:100px; height: 12%; width: 45%;">
+	<img class = "img1"src = "6.png" style = "position: relative; top: 0px; left:100px; height: 12%; width: 45%;">
 	
 	
 	
