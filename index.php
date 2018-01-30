@@ -121,7 +121,7 @@
 				
 
                 <div class='webImageBaseBase'>
-					<img class='webimg' src="webtwo/signin.png">
+					<img class='webimg' src="webtwosignin.png">
                     <div class="txtLabelWeb">Sign In
                         <p>This form is the sign in form in my web-based application in user two.</p>
                     </div>
@@ -129,7 +129,7 @@
 
 
                 <div class = 'webImageBaseBase'>
-				<img class='webimg' src="webtwosignuo.png">
+				<img class='webimg' src="webtwoSignuo.png">
                     <div class="txtLabelWeb">Sign Up
                         <p>This form is the sign up form in my web-based application in user two.</p>
                     </div>
@@ -151,7 +151,7 @@
 				</div>
 
 				<div class = 'webImageBaseBase'>
-				<img class='webimg' src="webtworeservingApartment.png">
+				<img class='webimg' src="webtwoReservingApartment.png">
                     <div class="txtLabelWeb">Apartment's Reservation
                         <p>This form shows the reservation of apartment.</p>
                     </div>
@@ -327,7 +327,7 @@
 				</div>
 
 				<div class = 'imgbasebaseone'>
-				<img class='imgone' src="mobileforgotPassword.png">
+				<img class='imgone' src="mobilemobileforgotPassword.png">
                     <div class="txtLabel">Forgot Password
                         <p>This is the forgot password of my mobile-based application in user one.</p>
                     </div>
@@ -355,7 +355,7 @@
 				</div>
 
 				<div class = 'imgbasebase'>
-				<img class='img' src="mobileaddBusiness.png">
+				<img class='img' src="mobilemobileaddBusiness.png">
                     <div class="txtLabel">Add Business
                         <p>This form can be visible if you want to add a business.</p>
                     </div>
@@ -376,7 +376,7 @@
 				</div>
 
 				<div class = 'imgbasebase'>
-				<img class='img' src="mobileapprovingNotifications.png">
+				<img class='img' src="mobilemobileapprovingNotifications.png">
                     <div class="txtLabel">Approving Notifications
                         <p>This form can be visible if you click the reservations in your notifications. This form is where you approve  reservations.</p>
                     </div>
@@ -397,7 +397,7 @@
 				</div>
 
 				<div class = 'imgbasebase'>
-				<img class='img' src="mobile/side-drawer.png">
+				<img class='img' src="mobileside-drawer.png">
                     <div class="txtLabel">Side-drawer
                         <p>Side-drawer can be visible if you click the icon in the left area. Side-drawer is where you can choose where do you want to go in the applications. </p>
                     </div>
@@ -478,7 +478,7 @@
 				</div>
 
 				<div class = 'imgbasebase'>
-				<img class='img' src="mobiletwosendingReservation.png">
+				<img class='img' src="mobiletwosendingreservationApartment.png">
                     <div class="txtLabel">Sending Reservation
                         <p>This form is where you can see if your reservation was sending.</p>
                     </div>
@@ -590,7 +590,7 @@
 				</div>
 
 				<div class = 'imgbasebase'>
-				<img class='img' src="mobiletwoUserSettings.png">
+				<img class='img' src="mobiletwouserSettings.png">
                     <div class="txtLabel">Settings
                         <p>This form is where you can see the settings of the application.</p>
                     </div>
