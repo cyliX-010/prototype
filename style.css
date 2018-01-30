@@ -1,0 +1,469 @@
+body{
+	background-color: gray;
+	height:12000px;
+}
+.btn{
+	position: relative;
+	top:90px;
+	left: 30px;
+	height: 100px;
+	width: 150px;
+	background-color: white;
+	margin: 2%;
+	box-shadow: 4px 6px black;
+}
+.btn:hover{
+	position: relative;
+	top:90px;
+	left: 30px;
+	height: 100px;
+	width: 150px;
+	background-color: black;
+	color: white;
+	margin: 2%;
+	box-shadow: 4px 6px white;
+}
+.txt{
+	position: relative;
+	top:30px;
+	left: 10px;
+	font-family: cursive;
+	font-size: 20px;
+	font-style: bold;
+	text-align: center;
+
+}
+#controllerprev{
+	position: absolute;
+	top:5px;
+	left: 10px;
+	height: 30px;
+	width: 70px;
+	background-color: white;
+	margin: 5px;
+	color: black;
+	
+	font-family: cursive;
+	padding-top: 10px;
+	font-size: 15px;
+	font-style: bold;
+	text-align: center;
+	text-indent: 5px;
+}
+#controllerprev:hover{
+	position: absolute;
+	top:5px;
+	left: 10px;
+	height: 30px;
+	width: 70px;
+	background-color: rgba(255,255,255,0.4);
+	margin: 5px;
+		
+	color: white;
+	font-family: cursive;
+	padding-top: 10px;
+	font-size: 15px;
+	font-style: bold;
+	text-align: center;
+	cursor: pointer;
+	text-indent: 5px;
+}
+#controllernext{
+	position: absolute;
+	top:5px;
+	right: 10px;
+	height: 30px;
+	width: 70px;
+	background-color: white;
+	margin: 5px;
+	
+	color: black;
+	font-family: cursive;
+	padding-top: 10px;
+	font-size: 15px;
+	font-style: bold;
+	text-align: center;
+	text-indent: 5px;
+}
+#controllernext:hover{
+	position: absolute;
+	top:5px;
+	right: 10px;
+	height: 30px;
+	width: 70px;
+	background-color: rgba(255,255,255,0.4);
+	margin: 5px;
+		
+	color: white;
+	font-family: cursive;
+	padding-top: 10px;
+	font-size: 15px;
+	font-style: bold;
+	text-align: center;
+	cursor: pointer;
+	text-indent: 5px;
+}
+.opening{
+	position: absolute;
+	top:50px;
+	left: 30px;
+	height: 550px;
+	width: 10px;
+	background-color: white;
+	margin: 2%;
+	box-shadow: 4px 6px black;	
+}
+.ImageBase{
+	position: absolute;
+	top:60px;
+	left:270px;
+	height: 3700px;
+	width: 980px;
+	background-color: white;
+	box-shadow: 4px 6px black;	
+}
+.Userone{
+	position: absolute;
+	top:0.5px;
+	left:0px;
+	height: 50px;
+	width: 100%;
+	background-color: black;
+	font-family: cursive;
+	padding-top: 10px;
+	font-size: 20px;
+	color:white;
+	text-indent: -200px;
+}
+.imgbasebase{
+	position: relative;
+	margin-top: 50px;
+	margin-left: 1%;
+	top:23px;
+	left:0px;
+	height: 650px;
+	width: 310px;
+	background-color: gray;
+	float: left;	
+}
+.imgbasebaseone{
+	position: relative;
+	margin-top: 50px;
+	margin-left: 1%;
+	top:-5px;
+	left:0px;
+	height: 650px;
+	width: 310px;
+	background-color: gray;
+	float: left;	
+}
+.img{
+	position: relative;
+	
+	
+	top:0px;
+	left:0px;
+	height: 520px;
+	width: 310px;
+	background-color: red;
+	float: left;
+}
+.imgone{
+	position: relative;
+	
+	margin-left: 1%;
+	top:0px;
+	left:-4px;
+	height: 520px;
+	width: 310px;
+	background-color: red;
+	float: left;
+}
+
+#ImageBaseuserTwo{
+	position: absolute;
+	top:60px;
+	left:270px;
+	height: 6500px;
+	width: 980px;
+	background-color: white;
+	box-shadow: 4px 6px black;
+	display: none;	
+}
+#controllerprevusertwo{
+	position: absolute;
+	top:5px;
+	left: 10px;
+	height: 30px;
+	width: 70px;
+	background-color: white;
+	margin: 5px;
+	color: black;
+	
+	font-family: cursive;
+	padding-top: 10px;
+	font-size: 15px;
+	font-style: bold;
+	text-align: center;
+	text-indent: 5px;
+}
+#controllerprevusertwo:hover{
+	position: absolute;
+	top:5px;
+	left: 10px;
+	height: 30px;
+	width: 70px;
+	background-color: rgba(255,255,255,0.4);
+	margin: 5px;
+		
+	color: white;
+	font-family: cursive;
+	padding-top: 10px;
+	font-size: 15px;
+	font-style: bold;
+	text-align: center;
+	cursor: pointer;
+	text-indent: 5px;
+}
+#controllernextusertwo{
+	position: absolute;
+	top:5px;
+	right: 10px;
+	height: 30px;
+	width: 70px;
+	background-color: white;
+	margin: 5px;
+	
+	color: black;
+	font-family: cursive;
+	padding-top: 10px;
+	font-size: 15px;
+	font-style: bold;
+	text-align: center;
+	text-indent: 5px;
+}
+#controllernextusertwo:hover{
+	position: absolute;
+	top:5px;
+	right: 10px;
+	height: 30px;
+	width: 70px;
+	background-color: rgba(255,255,255,0.4);
+	margin: 5px;
+		
+	color: white;
+	font-family: cursive;
+	padding-top: 10px;
+	font-size: 15px;
+	font-style: bold;
+	text-align: center;
+	cursor: pointer;
+	text-indent: 5px;
+}
+#WebImgBase {
+	position: absolute;
+	top:60px;
+	left:270px;
+	height: 8000px;
+	width: 980px;
+	background-color: white;
+	box-shadow: 4px 6px black;	
+    display:none;
+}
+.webprev{
+	position: absolute;
+	top:5px;
+	left: 10px;
+	height: 30px;
+	width: 70px;
+	background-color: white;
+	margin: 5px;
+	color: black;
+	
+	font-family: cursive;
+	padding-top: 10px;
+	font-size: 15px;
+	font-style: bold;
+	text-align: center;
+	text-indent: 5px;
+}
+.webprev:hover{
+	position: absolute;
+	top:5px;
+	left: 10px;
+	height: 30px;
+	width: 70px;
+	background-color: rgba(255,255,255,0.4);
+	margin: 5px;
+		
+	color: white;
+	font-family: cursive;
+	padding-top: 10px;
+	font-size: 15px;
+	font-style: bold;
+	text-align: center;
+	cursor: pointer;
+	text-indent: 5px;
+}
+.webnext{
+	position: absolute;
+	top:5px;
+	right: 10px;
+	height: 30px;
+	width: 70px;
+	background-color: white;
+	margin: 5px;
+	
+	color: black;
+	font-family: cursive;
+	padding-top: 10px;
+	font-size: 15px;
+	font-style: bold;
+	text-align: center;
+	text-indent: 5px;
+}
+.webnext:hover{
+	position: absolute;
+	top:5px;
+	right: 10px;
+	height: 30px;
+	width: 70px;
+	background-color: rgba(255,255,255,0.4);
+	margin: 5px;
+		
+	color: white;
+	font-family: cursive;
+	padding-top: 10px;
+	font-size: 15px;
+	font-style: bold;
+	text-align: center;
+	cursor: pointer;
+	text-indent: 5px;
+}
+
+.webimg{
+	position: relative;
+	
+	
+	top:0px;
+	left:0px;
+	height: 520px;
+	width: 930px;
+	background-color: red;
+	float: left;
+}
+.webimgone{
+	position: relative;
+	
+	margin-left: 1%;
+	top:0px;
+	left:-4px;
+	height: 520px;
+	width: 310px;
+	background-color: red;
+	float: left;
+}
+.webuserTxt {
+	position: absolute;
+	top:0.5px;
+	left:0px;
+	height: 50px;
+	width: 100%;
+	background-color: black;
+	font-family: cursive;
+	padding-top: 10px;
+	font-size: 20px;
+	color:white;
+	text-indent: 400px;
+}
+.webImageBaseBase{
+	position: relative;
+	margin-top: 100px;
+	margin-left: 1%;
+	top:23px;
+	left:15px;
+	height: 600px;
+	width: 930px;
+	background-color: gray;
+	float: left;	
+}
+
+
+#WebImgBaseTwo {
+    position: absolute;
+	top:60px;
+	left:270px;
+	height: 11500px;
+	width: 980px;
+	background-color: white;
+	box-shadow: 4px 6px black;	
+    display:none;
+}
+#serverImgBaseTwo {
+    position: absolute;
+	top:60px;
+	left:270px;
+	height: 6200px;
+	width: 980px;
+	background-color: white;
+	box-shadow: 4px 6px black; 
+}
+
+#serveruserTxt {
+    position: absolute;
+	top:0.5px;
+	left:0px;
+	height: 50px;
+	width: 100%;
+	background-color: black;
+	font-family: cursive;
+	padding-top: 10px;
+	font-size: 20px;
+	color:white;
+	text-indent: 400px;
+
+}
+.serverImageBaseBase{
+	position: relative;
+	margin-top: 100px;
+	margin-left: 1%;
+	top:23px;
+	left:15px;
+	height: 650px;
+	width: 930px;
+	background-color: gray;
+	float: left;	
+}
+.serverimg {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    height: 520px;
+    width: 930px;
+    background-color: red;
+}
+.txtLabel {
+       position: relative;
+    top: 530px;
+    left: -100px;
+    height:200px;
+    width:400px;
+    font-family:cursive;
+    font-size:10px;
+    color:black;
+    text-align:center;
+
+}
+.txtLabel {
+    position: relative;
+    top: 520px;
+    left: -100px;
+    height:200px;
+    width:400px;
+    font-family:cursive;
+    font-size:10px;
+    color:black;
+   
+    
+
+}
